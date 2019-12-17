@@ -1,0 +1,20 @@
+{
+  "name": "superblast-scoreboard",
+  "version": "1.0.0",
+  "description": "superblast-scoreboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anıl Gülgör",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^16.1.8",
+    "async": "^3.1.0",
+    "dotenv": "^8.2.0",
+    "glob": "^7.1.6",
+    "hapi": "^18.1.0",
+    "mongoose": "^5.8.1",
+    "path": "^0.12.7"
+  }
+}
